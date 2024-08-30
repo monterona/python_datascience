@@ -3,9 +3,10 @@
 
 # 1. Introducción
 
-Este repositorio contiene un conjunto de *notebooks* de jupyter que forman parte de los cursos de programación Python para la ciencia de datos elaborados originariamente por la [Universitat Oberta de Catalunya](https://www.uoc.edu), y que se distribuyen bajo licencia [`CC-BY-SA`](https://creativecommons.org/licenses/by-sa/4.0/).
+Este repositorio contiene un conjunto de *notebooks* de jupyter preparados específicamente para el aprendizaje de la programación Python para la ciencia de datos.
 
 El repositorio contiene los notebooks separados en dos carpetas:
+
 1. La carpeta `python_1` contiene los *notebooks* de la asignatura **Fundamentos de programación**, que ofrece una introducción a la programación en lenguaje Python centrada en la resolución de problemas del ámbito de la ciencia de datos.
 
 2. La carpeta `python_2` contiene los *notebooks* de la asignatura **Programación para la ciencia de datos**, profundizando en la comprensión de algunos de los conceptos clave, a la vez que se explican otros conceptos de programación más avanzados , que permitirán a los estudiantes afrontar problemas de programación más complejos y de manera más eficiente, en Python.
@@ -38,7 +39,7 @@ Con el fin de ejecutar los *notebooks* necesitaréis:
 * Una instalación de `python3` con algunas librerías adicionales y
 * El software `jupyter`.
 
-La máquina virtual que se proporciona en cualquiera de las dos asignaturas ya incorpora todo el software necesario para ejecutar el contenido de este repositorio. Como alternativa, podéis instalar en la máquina el software siguiendo las indicaciones de los apartados siguientes.
+Podéis instalar en la máquina el software siguiendo las indicaciones de los apartados siguientes.
 
 ## 2.1. Instalación de python3
 
@@ -74,3 +75,6 @@ Si utilizáis la máquina virtual de las asignaturas, también podéis iniciar j
 ```
 $ start_uoc.sh
 ```
+# 4 Reconocimientos
+
+ Este repositorio ha sido elaborado originariamente por la [Universitat Oberta de Catalunya](https://www.uoc.edu), y que se distribuyen bajo licencia [`CC-BY-SA`](https://creativecommons.org/licenses/by-sa/4.0/).
